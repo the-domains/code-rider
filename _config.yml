@@ -1,0 +1,14 @@
+layout_spectrum: 0.690071189776063
+typography_spectrum: 0.9935884913429618
+color:
+  brandStrength: 0.3660224738996476
+  lightness: 0.4800533545203507
+  saturation: 0.24900876474566758
+  rhythmicContrast: 0.7495313000399619
+  brandColors:
+    - '#F1F0ED'
+    - '#222320'
+    - '#5F605D'
+    - '#E0623F'
+    - '#F0AE82'
+name: Code Rider
